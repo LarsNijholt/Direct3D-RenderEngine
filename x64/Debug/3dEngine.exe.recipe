@@ -2,15 +2,15 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\larsn\source\repos\3dEngine\x64\Debug\3dEngine.exe</FullPath>
+      <FullPath>C:\Users\larsn\source\repos\3dEngine\Direct3D-RenderEngine\x64\Debug\3dEngine.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles>
     <ContentFile>
-      <FullPath>C:\Users\larsn\source\repos\3dEngine\PixelShader.cso</FullPath>
+      <FullPath>C:\Users\larsn\source\repos\3dEngine\Direct3D-RenderEngine\PixelShader.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\larsn\source\repos\3dEngine\VertexShader.cso</FullPath>
+      <FullPath>C:\Users\larsn\source\repos\3dEngine\Direct3D-RenderEngine\VertexShader.cso</FullPath>
     </ContentFile>
   </ContentFiles>
   <SatelliteDlls />

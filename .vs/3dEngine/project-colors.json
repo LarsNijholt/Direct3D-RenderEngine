@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2f1ff0c1-23ac-4627-9c6d-d4a44299f7db": {
+      "ProjectGuid": "2f1ff0c1-23ac-4627-9c6d-d4a44299f7db",
+      "DisplayName": "3dEngine",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

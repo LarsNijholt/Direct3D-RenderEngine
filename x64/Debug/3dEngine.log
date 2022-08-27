@@ -1,9 +1,11 @@
 ﻿  Graphics.cpp
-C:\Users\larsn\source\repos\3dEngine\EngineWRL.h(4,24): warning C4081: expected ':'; found '::'
-C:\Users\larsn\source\repos\3dEngine\Graphics.cpp(205,24): warning C4305: 'argument': truncation from 'int' to 'const _Elem'
+C:\Users\larsn\source\repos\3dEngine\Direct3D-RenderEngine\EngineWRL.h(4,24): warning C4081: expected ':'; found '::'
+C:\Users\larsn\source\repos\3dEngine\Direct3D-RenderEngine\Graphics.cpp(134,16): warning C4838: conversion from 'double' to 'unsigned char' requires a narrowing conversion
+C:\Users\larsn\source\repos\3dEngine\Direct3D-RenderEngine\Graphics.cpp(134,16): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\larsn\source\repos\3dEngine\Direct3D-RenderEngine\Graphics.cpp(241,24): warning C4305: 'argument': truncation from 'int' to 'const _Elem'
           with
           [
               _Elem=char
           ]
-C:\Users\larsn\source\repos\3dEngine\Graphics.cpp(205,18): warning C4309: 'argument': truncation of constant value
-  3dEngine.vcxproj -> C:\Users\larsn\source\repos\3dEngine\x64\Debug\3dEngine.exe
+C:\Users\larsn\source\repos\3dEngine\Direct3D-RenderEngine\Graphics.cpp(241,18): warning C4309: 'argument': truncation of constant value
+  3dEngine.vcxproj -> C:\Users\larsn\source\repos\3dEngine\Direct3D-RenderEngine\x64\Debug\3dEngine.exe
